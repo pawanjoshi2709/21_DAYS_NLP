@@ -4,3 +4,5 @@ DAY 01 Learning: What is NLP, Usage, Future scope, Word and Sentence Tokenizatio
 DAY 02 Learning: Word2Vec, co-occurrence vectors, Doc2vec, TextBlob.
 
 DAY 03 Learning: GANs introduction , Architecture (GANs, DC GAN, W GAN), Implementation of GANs.
+
+DAY 04 Learning: RNN introduction , Architecture Simple RNNs, Implementation of Simple RNNs.

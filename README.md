@@ -8,3 +8,7 @@ DAY 03 Learning: GANs introduction , Architecture (GANs, DC GAN, W GAN), Impleme
 DAY 04 Learning: RNNs introduction , Architecture Simple RNNs, Implementation of Simple RNNs.
 
 DAY 05 Learning: LSTM and BiLSTM introduction , Architecture of LSTM and BiLSTM.
+
+DAY 06 Learning: Bag of words , TFIDF and Revision
+
+DAY 07 Learning: Stock prediction using BOW/TFIDF

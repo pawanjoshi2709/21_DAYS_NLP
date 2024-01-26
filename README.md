@@ -12,3 +12,5 @@ DAY 05 Learning: LSTM and BiLSTM introduction , Architecture of LSTM and BiLSTM.
 DAY 06 Learning: Bag of words , TFIDF and Revision
 
 DAY 07 Learning: Stock prediction using BOW/TFIDF
+
+DAY 08 Learning: Architecture Simple RNNs , Problems in RNNs model, Implementation of Simple RNNs on IMBD data.

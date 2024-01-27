@@ -14,3 +14,5 @@ DAY 06 Learning: Bag of words , TFIDF and Revision
 DAY 07 Learning: Stock prediction using BOW/TFIDF
 
 DAY 08 Learning: Architecture Simple RNNs , Problems in RNNs model, Implementation of Simple RNNs on IMBD data.
+
+DAY 09 Learning: Architecture LSTM, Problems in LSTM model, Implementation of LSTM on IMBD data.
